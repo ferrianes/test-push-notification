@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156005488212",
+    "project_id": "fland-2e822",
+    "storage_bucket": "fland-2e822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156005488212:android:3d3e02a5d939b82ebcbfc1",
+        "android_client_info": {
+          "package_name": "com.testpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156005488212-247i8nbrchu7fh53o7v8b4v3e0mks5en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2xtUwVHcLGEp6RONEH7DXmLKa6SHItY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156005488212-247i8nbrchu7fh53o7v8b4v3e0mks5en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
